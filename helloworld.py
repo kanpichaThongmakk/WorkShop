@@ -1,2 +1,3 @@
 print("Kanpicha")
-print("e khaaa")
+print("Thongmak")
+print("Mind")
